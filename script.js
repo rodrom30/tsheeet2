@@ -34,6 +34,6 @@ document.addEventListener("DOMContentLoaded", function () {
 
         alert("Form submitted! (Next step: Connect to Google Sheets or Email)");
 
-        // Here, you can add code to send data to Google Sheets or EmailJS
+        // romanacvdo@gmail.com
     });
 });
